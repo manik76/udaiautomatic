@@ -1,0 +1,26 @@
+                                 Udai V1.2
+                                ------------
+				 User Manual
+ 				 ----------
+
+1.0 Introduction
+----------------
+
+    Udai is a Textile CAD design package. Design data are recorded in files.
+Provides different views for the design data in Warp, Weft and Warp Weft.
+Scrolling page by page is possible. Zooming the views are also provided. 
+All complex checked design with multiple colours is easy to design.
+Output of the views are saved in image.
+
+2.0 Warp
+--------
+    Warp is the along the length weaving design.
+
+3.0 Weft
+--------
+    Weft is the along the width weaving design.
+
+4.0 Warp Weft
+-------------
+    Warp Weft is the finished weaving design.
+                           ~~~~~@@@@@~~~~~
